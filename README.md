@@ -117,5 +117,5 @@ ANKITA PATRA
 ## OUTPUT SCREENSHORT
 
 ![image alt](https://github.com/anku282007/Ankita/blob/cd0d8b8aa9af4384c3be1dade0c9fc6a305f3fcf/Screenshot%202025-11-26%20124924.png)
-![image alt](image__url)
+![image alt](https://github.com/anku282007/Ankita/blob/a9c9c125f91908a6ace5bcd8f552b12d8c34b80f/Screenshot%202025-11-26%20124939.png)
 ![image alt](image__url)
