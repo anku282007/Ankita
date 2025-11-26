@@ -90,4 +90,7 @@ This is an open-source project. Suggestions, improvements and pull requests are 
 
 📜 License
 This project is free to use for educational and academic purposes.
+ ##AUTHOR
+ ANKITA PATRA
+
 
